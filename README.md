@@ -12,3 +12,10 @@ git branch
 git add .
 git commit -m "asigné menu"
 
+<<<<<<< Updated upstream
+=======
+
+
+- Finalizacion
+git flow feature finish add-maquetacion-html
+>>>>>>> Stashed changes
